@@ -29,7 +29,7 @@ This is a full-stack Todo Task Management Web Application built as part of the K
 ## 🛠️ Installation & Running Locally
 
 1. Clone the repository:
-git clone https://github.com/your-username/todo-task-manager.git
+git clone https://github.com/Lokeshk2004/Todo-Katamoran.git
 
 2. Install dependencies:
 npm i
@@ -40,15 +40,15 @@ npm start
 
 ## 🌐 Live Demo
 
-Access the live app here: [https://your-vercel-link.vercel.app](https://your-vercel-link.vercel.app)
+Access the live app here: [https://todo-katamoran.vercel.app/](https://todo-katamoran.vercel.app/)
 
 ## 📊 Architecture Diagram
 
-![Architecture Diagram](./assets/architecture-diagram.png)
+![Architecture Diagram](https://drive.google.com/file/d/1kR96Dwi_A7SjrHQxrS50dA3dGMkk1IxI/view?usp=sharing)
 
 ## 🎥 Demo Video
 
-Watch the full demo and explanation here: [Loom Video](https://www.loom.com/share/your-demo-link)
+Watch the full demo and explanation here: [Loom Video](https://drive.google.com/file/d/1hZuwDYL022tzl_LDRNfwWJuoz7cFKyRU/view?usp=sharing)
 
 ---
 
